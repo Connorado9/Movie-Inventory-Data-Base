@@ -1,0 +1,100 @@
+22;Uri: The Surgical Strike;2019;16
+65;Django Unchained;2012;17
+82;Paths of Glory;1957;4
+24;City of God;2002;7
+39;The Intouchables;2011;11
+47;Terminator 2: Judgment Day;1991;2
+91;Inglourious Basterds;2009;5
+8;12 Angry Men;1957;1
+70;My Father and My Son;2005;13
+52;Apocalypse Now;1979;0
+83;Sunset Blvd.;1950;1
+36;Spider-Man: Into the Spider-Verse;2018;8
+74;Princess Mononoke;1997;11
+88;Incendies;2010;9
+45;American History X;1998;0
+85;Drishyam;2015;1
+78;Das Boot;1981;10
+94;Snatch;2000;0
+76;Aliens;1986;17
+13;The Good, the Bad and the Ugly;1966;2
+58;The Great Dictator;1940;1
+17;The Matrix;1999;10
+61;Andhadhun;2018;9
+11;The Lord of the Rings: The Fellowship of the Ring;2001;1
+10;Fight Club;1999;7
+25;Spirited Away;2001;2
+53;Alien;1979;8
+73;American Beauty;1999;2
+29;The Usual Suspects;1995;9
+5;The Lord of the Rings: The Return of the King;2003;4
+18;Goodfellas;1990;7
+55;Psycho;1960;7
+26;Saving Private Ryan;1998;8
+90;Swades;2004;9
+99;The Bandit;1996;4
+89;Toy Story 3;2010;8
+59;Modern Times;1936;17
+81;Witness for the Prosecution;1957;19
+38;Whiplash;2014;1
+68;Like Stars on Earth;2007;5
+2;The Godfather;1972;19
+92;Eternal Sunshine of the Spotless Mind;2004;10
+32;The Silence of the Lambs;1991;9
+71;The Lives of Others;2006;18
+48;Cinema Paradiso;1988;1
+80;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;4
+67;3 Idiots;2009;2
+60;City Lights;1931;1
+69;WALL·E;2008;3
+46;The Lion King;1994;11
+16;The Lord of the Rings: The Two Towers;2002;0
+51;Raiders of the Lost Ark;1981;4
+27;The Green Mile;1999;8
+96;L.A. Confidential;1997;11
+37;Avengers: Infinity War;2018;6
+31;Léon: The Professional;1994;9
+86;The Hunt;2012;0
+21;Seven Samurai;1954;8
+9;Inception;2010;1
+72;Oldboy;2003;0
+77;Once Upon a Time in America;1984;6
+34;It's a Wonderful Life;1946;8
+6;Pulp Fiction;1994;8
+30;Se7en;1995;4
+87;A Separation;2011;12
+35;Dangal;2016;4
+7;Schindler's List;1993;4
+97;Good Will Hunting;1997;9
+79;The Shining;1980;10
+93;Amélie;2001;3
+54;Once Upon a Time in the West;1968;4
+84;Baahubali 2: The Conclusion;2017;4
+3;The Dark Knight;2008;13
+12;Forrest Gump;1994;6
+33;Star Wars: Episode IV - A New Hope;1977;2
+57;Casablanca;1942;0
+4;The Godfather: Part II;1974;2
+100;Toy Story;1995;13
+49;Grave of the Fireflies;1988;4
+15;Avengers: Endgame;2019;5
+42;The Pianist;2002;1
+98;Children of Heaven;1997;4
+44;Gladiator;2000;15
+56;Rear Window;1954;7
+50;Back to the Future;1985;5
+41;The Departed;2006;8
+19;Star Wars: Episode V - The Empire Strikes Back;1980;6
+1;The Shawshank Redemption;1994;9
+23;Interstellar;2014;8
+95;Requiem for a Dream;2000;0
+28;Life Is Beautiful;1997;3
+40;The Prestige;2006;3
+20;One Flew Over the Cuckoo's Nest;1975;14
+66;The Dark Knight Rises;2012;1
+14;Ayla: The Daughter of War;2017;13
+64;Toy Story 4;2019;10
+63;Coco (I);2017;5
+62;Your Name.;2016;2
+75;Braveheart;1995;17
+43;Memento;2000;1

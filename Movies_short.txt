@@ -1,0 +1,20 @@
+7;Schindler's List;1993;4
+3;The Dark Knight;2008;13
+14;Ayla: The Daughter of War;2017;13
+1;The Shawshank Redemption;1994;9
+13;The Good, the Bad and the Ugly;1966;2
+6;Pulp Fiction;1994;8
+5;The Lord of the Rings: The Return of the King;2003;4
+17;The Matrix;1999;10
+16;The Lord of the Rings: The Two Towers;2002;0
+18;Goodfellas;1990;7
+2;The Godfather;1972;19
+20;One Flew Over the Cuckoo's Nest;1975;14
+10;Fight Club;1999;7
+19;Star Wars: Episode V - The Empire Strikes Back;1980;6
+11;The Lord of the Rings: The Fellowship of the Ring;2001;1
+4;The Godfather: Part II;1974;2
+12;Forrest Gump;1994;6
+9;Inception;2010;1
+8;12 Angry Men;1957;1
+15;Avengers: Endgame;2019;5
